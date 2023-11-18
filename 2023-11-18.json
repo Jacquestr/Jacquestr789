@@ -1,0 +1,26 @@
+{
+  "name": "Jean Baldwin",
+  "age": 28,
+  "address": {
+    "street": "Jedmaz Path",
+    "city": "Asomfo",
+    "state": "MD",
+    "zip": "43642"
+  },
+  "contact": {
+    "phone": "(531) 417-3291",
+    "servicePhone": "800797326"
+  },
+  "birthday": "1959-05-01T19:57:46.661Z",
+  "ip": "4.145.174.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Koceuki tala tuwiv ocvil namsi zarad wapkafo kisus wugseku wogjo jisbeik fif. Witivpok banhetru kev fepvewula ega bev sen ked etici ama mifolvi re uf bewe kisuk. Anu gejja kunha sov upoagejo tol fojobuk ovdid cuzwa sidjor com vew ifedab. Hucoho kuniko pu zaliru miv momme nupu tebugeva lomicwe tundova bal ja jo oj. Cow mimsuf sop tinnasid ize abojugi gejjek weep okimahoh sufjawo ina dawospi deemenir un ojwa ridedeih pavsozwi ebe.",
+    "bio": "Kupru mus naf tedimguz vafvauwo zi dokca mejejupov ulwol bu wimdaduza puvu coh. Ewatoh zicneb ce epu sospijov suce bofus juvuzuc nijuif tod geili sa eda wovwi fivuum be epa. Kunwoabi se won vis rugrif ubega lopadu mok dala wo nul beuha."
+  },
+  "apiKey": "a677cd8e4fb6748e2a326e046d139e1646e5ecf10000e7fbeb954267c222d0de",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
