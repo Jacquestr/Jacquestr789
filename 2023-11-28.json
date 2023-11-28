@@ -1,0 +1,26 @@
+{
+  "name": "Carolyn Walton",
+  "age": 65,
+  "address": {
+    "street": "Jelo Avenue",
+    "city": "Kuvehac",
+    "state": "ID",
+    "zip": "54975"
+  },
+  "contact": {
+    "phone": "(379) 751-3119",
+    "servicePhone": "800187891"
+  },
+  "birthday": "1997-08-25T20:42:10.317Z",
+  "ip": "241.236.151.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Vonkeb kofse leobin tecuwof lis iziot be varuvezov dab narap doca bogec. Ra akorad kefnovus sa dob cigu lujig efla ges tivcos daroculom ijbean man kadtatcip edo. Heimzek jet bej amenez cagka koh ehuzek hoek ilu pevarog ni afo lasokfa alapih fuzvidonu.",
+    "bio": "Facuwa va rimackuw wo ok ekwe muhase dobri wed mel jaguk wokihhi taliz. Moh move vijat kakor lajajis ricus bemano hed tem vewoj vag ve fudivepov. Hobpa ho oh ow irtusej padiv ulosito du bi ukokba vajar naki gajuzra ti."
+  },
+  "apiKey": "b3d499decc63ba9fc821e6889ded46c03b75d9d6ec4444059b23df472b24b7bd",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
