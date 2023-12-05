@@ -1,0 +1,26 @@
+{
+  "name": "Leah Ross",
+  "age": 59,
+  "address": {
+    "street": "Ginav Road",
+    "city": "Upoicra",
+    "state": "MS",
+    "zip": "83561"
+  },
+  "contact": {
+    "phone": "(983) 960-2941",
+    "servicePhone": "800155727"
+  },
+  "birthday": "1994-06-21T03:16:36.563Z",
+  "ip": "195.68.236.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaswa porlid bizgac uhoface mizkis atheh ub jazo kamtupti reb awduroh apmehip miopu cubhiuso bi hutmuw ujota. Ivvij egema tetuwah girjoogu agjawpa mafotavu iperupjov vek cu wezimeba wuuv na hi videg nezagje reawma ju fongufje. Nekmac dindivbow teson kocca on telo laog nesri van zaketes ra uboca zo asoiv ulzohi.",
+    "bio": "Dovgesnev zarod sufre kizal colze ju ur jejzozsi zu ipo pup uwpih kefic cadugu fesutira. Pimpu ta ok hecun jefa sadi lulgis va hat woffa dasfi wog mov ziwemo opaalo ihirugac. Jomelmo alpisda udmizaju jisbacpa hiz tacula detdil du gicwa ekse vefgavu zirkiah dak zalluvmiw hepwa keov megca wu."
+  },
+  "apiKey": "e299023beeb883fc80dfcd0dcd7e235cb88e415485464f000513bd6c9ed6a78b",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
