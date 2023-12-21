@@ -1,0 +1,26 @@
+{
+  "name": "Myra Page",
+  "age": 58,
+  "address": {
+    "street": "Todu Glen",
+    "city": "Fiudaol",
+    "state": "KS",
+    "zip": "94862"
+  },
+  "contact": {
+    "phone": "(385) 979-3024",
+    "servicePhone": "800714265"
+  },
+  "birthday": "1996-04-07T20:54:50.057Z",
+  "ip": "99.45.253.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Vukbu po utzuh osi wavjuji vun fos saf mawibkon romwow kuomvug kicnucago tijevado riim. Vijilide wasite ug gi azhubza teja zen hasujisi vaecocar vehurok rul peapi. Kafi wetilo dup cegodtic odzeum jo hahrugofa jeldel sucuwec facadim gaminoj diji lis wizma ukeojogap voguop uzunu kum. Tiddo no teckefnaw wavos dil kevviz tuguw ul vowzomuz pe oj pulruf kirsuow. Fo pihuzar raja tu himzethup vujruhwis araijeze gig sulak ibogeoko uh fuk amda ka zef eru. Jig sekudaih utuhiug ac uzaug jalacono gundob kamcibvi lenok hiaga su faw jahfo rokvu.",
+    "bio": "Vo kivep sef te govoliz nonahfat tarle tov mokibub peeskig rev owootuwa nulcas ijvellu kukco ser. Bazidegi joiw misuhefu god nadoloz baglav icipov sa otaopenam louspa mape mud puhe oku sip boajapu ufe zez. Fa kinwiw gombude hummuzo ez una hik ki reletohi jafavolum bov poraj nira wib da juzzurjuf vak bivkuto. Sewval heelabi gu wernata sunla sot fu zean musot kicref ehof pu puzoc kucure boc. Fi iripu dunajgap dat kiviwve hizal weuddi ezwidkac lun rodeju le kevbod gib ofa fokkinet zut. Huedwi apo ziwehhe vawzeb jitbavgi hag cab zaheg ilemucmel zu obdas ologon fupso ulu ejijat balhak rajenze pogij."
+  },
+  "apiKey": "7a9a9964888460fa7805a91ae91c3304917ad62a3e7339dbf18e628d3e3c5aab",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
