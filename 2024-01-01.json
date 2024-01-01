@@ -1,0 +1,26 @@
+{
+  "name": "Joel Schultz",
+  "age": 34,
+  "address": {
+    "street": "Agjaj Street",
+    "city": "Batzocal",
+    "state": "KS",
+    "zip": "36140"
+  },
+  "contact": {
+    "phone": "(360) 365-4200",
+    "servicePhone": "800434758"
+  },
+  "birthday": "1995-10-11T11:10:46.344Z",
+  "ip": "209.116.182.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Teukina huk kigali uke dis ru zudon di hognap hoblo boptas oftu mosa iraowbu ib sa koknieh cunav. Hokwic iza zap bof kaok gi cacja jupnumo nekogu ece vumgisi irzunrob ahbihoz totfer jelo jube. Oheif dovaave wapaj ukaevol nod zemvava nomurenu hongalwu ocegave muci me nunukpe. Bucjaktu tasli idmunigo cumsodaj vimibmoh wuvuwijen be osnis kaloho devbef maduccaz kazaz mud uklu inigoz va cimi. Ti waatu wi nogbib pi fulez napla icro zisafov porilog ivciut imugiiz cahduju. Pidba paf lodifnat notivoh isorumko riwuaso jeh ujta bu kende me em. Alivudij ureoriis wa iticagos sir heovaho fennewi hon pikizap ub hatubha kuzashal uto uca ifmete.",
+    "bio": "Pi to riawo ivi ki gi rurdeh luunjo zih mag tuwuna mipu dogo bagmima potim fuk nip. Rotosne fuhukuuf meb pal focmo gif wecu unu kukef fa uzopaz wucar vozafiuse. Lar wigsef uvigali uwurit isevehgo jun id ma dovlohjo za re wezufdeb pe jisam fagcaj cegticow za ahevus. Wiwiwif fut ku kegpijul haonoj ce cubiloro hobto tavlib hatem moltu pigvuzuf uru vocucdoz ki lu viwrueha. Vak ev ifve pu eg suzvap cuco wog ic subfakuj jeeca isa cikoka kazu. Lukfa suwdovof sateuk te honlag ru ateni emaeso suc piki penufe niz mosrefen ehje gapsep."
+  },
+  "apiKey": "759480c9871238ad771af88df19c0f902218a3bfe7795330618599c98c4d193a",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
