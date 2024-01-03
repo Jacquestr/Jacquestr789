@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Brown",
+  "age": 56,
+  "address": {
+    "street": "Dikpo Mill",
+    "city": "Hobpulul",
+    "state": "TN",
+    "zip": "57220"
+  },
+  "contact": {
+    "phone": "(373) 240-4968",
+    "servicePhone": "800474731"
+  },
+  "birthday": "1986-08-17T23:05:02.560Z",
+  "ip": "8.164.144.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Faf fojpa miged mebik kegvegzad rohfov ewdauk cavogi figej go cufeba folhu. Tediku dunamjez atgammuw zaji ul fi gozapak loj wev wi kigiwbi za emmal ekaegder muvdec. Piseh il eznit ufi di ne ugu alwemjus embu mejniw beniwat maoviru ke ci wozjefi. Jas pa bijeb nid agzuij cur zuwazguc lita tiwe fo kunejuz ravotuj buj wij. Veitapi egefapin werrewo iwerekod jurlig naisu osdat nicguzul pujoge fodsuneh nohop dodese.",
+    "bio": "Picsic demni ku mi fata ikaguwave welete of hispo vovzeplet re vo sa lihbi winza. Pa ec mor seecoce eh fumgirum awa vu geku locogdi mumekuv irwozar. Ed begunab ciba le cincezi toze peka nuborut gancam mavmi kok peawawu juhi hezu vas vutermi."
+  },
+  "apiKey": "857b2c4a09c17b796c163d720aa621e1c942e572249cd2e469a293713ee21456",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
