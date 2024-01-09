@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Hodges",
+  "age": 29,
+  "address": {
+    "street": "Osuh Trail",
+    "city": "Ihikka",
+    "state": "PA",
+    "zip": "23160"
+  },
+  "contact": {
+    "phone": "(409) 875-3379",
+    "servicePhone": "800895151"
+  },
+  "birthday": "1979-01-06T07:36:33.739Z",
+  "ip": "178.197.37.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuf tuelbo wetwetfaw hog cusur bauzi pep wi amnuf tarete fec ofuseran ivvaid umacu nu. Ro zittig teri jazis ilasigo vo luh sa wugicug ido susep fodofis ediga ojgohah kucigvo upu puulba. Ukiuckoc zuwinlif humtufof dochoho mofrabve uwuabpi neigo ne faluj ja figacve eczo sa vurro. Wejivefis fedvobna ta wucun we wic wirrewam haja paedtim cuhewpav fuket zafopavu ge cutawhek watuli rez. Evvupfo zamipni fukdarav citoore fukeme riveka dop zi ape osicokug moh ra bauhti hot. La puvfiir nuji renuco memuse ogu tuh ovvom duba ugev ja liizfa as hopo buz fapfapca jejgucno.",
+    "bio": "Elukozne kudvow ug bepvaf todaezi eciha uwilajac pezjep nubohok toplarvo navumaj rac. Zondojog hiucguj voisicol botbeas pejkad ogivor denahega dikilu ic jenu jutopji jadapura ofe isudu. Begip zefheg moc tocmamu bajsiclo weramu ivi hetzobe katlupuw vekfelru usepafad nivil mi wuzda. Zu obtangu zuvji eha le tatewosir jenulrid re habime cuc emijugos ladbispo bel gaisihab lanvu vap hucoswuc wutic."
+  },
+  "apiKey": "6b0264ebdd110022d6be46635e1f8a9e96f39c548bf89315f83d9d70491c0c67",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
