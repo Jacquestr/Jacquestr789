@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Reed",
+  "age": 33,
+  "address": {
+    "street": "Wugme Mill",
+    "city": "Dicnoli",
+    "state": "AZ",
+    "zip": "73213"
+  },
+  "contact": {
+    "phone": "(606) 305-8591",
+    "servicePhone": "800598451"
+  },
+  "birthday": "2006-12-08T01:56:34.647Z",
+  "ip": "208.164.82.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Jevak doojhi peag vabbo hu ig fijafidiv pepa tepjo ziwej ol ifage vaj evjuwmi kif dog pebagiri. Muzara mapepi ri rar jisairo pinta ockowe ig atcol duese esicozeg lizele. Gujliz ve em vu miw jejgorgi oju kecaga valsejlim so toiso se muw muvfa tazujza. Ukeve pegpi cati so taref rakcuceja hidnuznu emhob ki cewisze voc jela. Lijowpog naswuzdis sopene jo ugsob oja epudos ubfibbuh wo zubdokfu ov migfi kormi akadin awawuc.",
+    "bio": "Ik nupur pe fe unbozza fakgew cenwor nikupdid del wewra ebdi zeccep vapecaw em. Va ic cur tin heghudkig pafibow diraffum pazad hekom leiw sucsud ajien. Hor faj gopdubab buzagilo kijedfod af ujwi zoheolu subbo co wagufi wo. Weuloiv itevemec adobo nikweru ofafupjob lubgari olesi laj ub hikdaddem uzoku ropufnid. Kapza wuwoz apuigzah dal pawkep fa umalep nihnolu zumondi pe ciabmoh om cakoz. Onmualu ve dazdi su acige zeurtow bamow gi ja fejjucin kikjato zaneweosi. Gej ti de ec vif rawpi jo cefzodzup eduahu oc zopu supidu zecsal te funo ukraozu."
+  },
+  "apiKey": "cf3b27b22145b282dd5c69701eced7ba6e3ac453ddd21533a4314a816647b0b7",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
