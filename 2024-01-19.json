@@ -1,0 +1,26 @@
+{
+  "name": "Ethel Austin",
+  "age": 49,
+  "address": {
+    "street": "Seza Lane",
+    "city": "Gemeham",
+    "state": "NV",
+    "zip": "16254"
+  },
+  "contact": {
+    "phone": "(956) 552-9799",
+    "servicePhone": "800678948"
+  },
+  "birthday": "1978-05-12T16:50:57.331Z",
+  "ip": "43.219.205.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Uzjajas ag bu birazbe sethor sadrug kolo jedaha evacubig vujrul su pohmegsa ufatu ehri bizidile. Ew owtit orude ber le sik fip pehcegav en ja ecopizem ewuci unmuenu bopomer ukokebi lug. Mas hucsamir fa wihlat tuk nevaaso ar kihufsu dikozzu guz jofdajito oge.",
+    "bio": "Kugcit oca fuktuimu tij ferbiv ivivozi rokigumu ru odome roj afiojo cum edwobom. Omune wulo azukosve redmusuh wuave sinej ita odnen fot bonebud izafci ucuna vu ceuzed. Ti vurheju ona roci cezujet wezawaz lub ubaedbo ju mas ri hikfoda rol liv ha to pecuheha. Gi ev jo uzojanrep fuceb rofubev du amlo ke foh mor odgek zara."
+  },
+  "apiKey": "a9b706b5b15f1ffe36491e131670856e5f9adcba41266379afb8586142cad10d",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
