@@ -1,0 +1,26 @@
+{
+  "name": "Nellie French",
+  "age": 30,
+  "address": {
+    "street": "Pokmat Circle",
+    "city": "Sigcease",
+    "state": "MT",
+    "zip": "64588"
+  },
+  "contact": {
+    "phone": "(432) 465-5569",
+    "servicePhone": "800787187"
+  },
+  "birthday": "2004-07-16T22:37:54.308Z",
+  "ip": "168.195.176.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Vegdoki ha ficim mu cu hopcar cuhur gaoba cepcisfak gud dijuflip tin opopuij. Enaokivi to nif eti zegbizha edjuci kim jefirili nerasi gadub pujuc godu otapuzed sar peho puhgettal hawdefga izopve. Lu wi bulco ore ziskod duwik anonhop sug avbezsu kelge ol varkudjo. Vohnir wa feza tanahti nubpojbor ow ivefizze he adnaca arof arakak mefeve kok gigo cakdak hozuned iftowsap. Bi ufpesdu emutite dosruduh uploko eb focetkut no fodouka kocvoned ufeorese ofa dooga ringebuj elefujvi ciha dochodzah sanesep.",
+    "bio": "Rarsokuf renju butaza cuhvesos biduip ti heogu sa fu ipmoca levpora moru kupoprek tafbapni kiw potimnik gimak bulibvin. Ramakeki fidemgi fiepopok paso kaimuig zuv balhar pugehhal reek juketno bactaeta gonor kuvjina uli wepe epo faafot. Lebbidti tufzodu aru va vuunater rejtuz us ajo ehsi lirpeg roinu luddibbi ki totap awiemu gespi."
+  },
+  "apiKey": "8e4614b7d24b1bf44a4c7d9e8f8ff93daf3eb9f6b73dc5bafad56db4438beb96",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
