@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Poole",
+  "age": 21,
+  "address": {
+    "street": "Jagov Extension",
+    "city": "Hezluja",
+    "state": "WI",
+    "zip": "31784"
+  },
+  "contact": {
+    "phone": "(328) 916-2579",
+    "servicePhone": "800739597"
+  },
+  "birthday": "1991-06-09T05:47:06.871Z",
+  "ip": "2.57.154.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa imsitbi jipteli ti acemimo houwo unubul taroz ziwadad puroweki fownormol okakugu cabjehij hijozi nimrar. Uhu bejukes his ce an buzre su mino ri hi torwe izsizat. Odi fa joko ejil covve as va uzuda ukijegiz bo jetdiv utasacov pe vu sehuf. Tukru anocide kofazem dijwadpun zebabce kec imumu luwebviz do cehe zuksab gotu hovpocjo ilueh. Cuvuv zifovmeg josoag co okwo uneeze ledcuzli mi gabol aco ev palhosu. Dazru ifediwvo wujapila gebharpul jozutgiz zat ret ujmo mimragaf emo sojuh if biwiz cifone bacnah gukmojep wow halviaru. Po iseweusa hub idotewves saidewu hauk zonnajri mis bihmev zigpud beituwu sehcapkef sowikzo ucwi.",
+    "bio": "Hig dajedeime denmul ocehi honju rufi gaj duteubu um sadu luffo cudde pav juwru ciizaul cug. Gabi keira ukbupuz zal udado paslemke ibbav ejhu ap serna he iroub. Fub firbes sopnuwhi sogzoswi nujnijhi otefa ewicu rehbag geakurub fojulow ji geczosa icilved obnetudi fahsar. Codfav ilpug cuec nopwazze pukosemo fob mumjurmu faknub ceg amzet wonoz mac ezra ilmumu ihuoz ehuco. Arejoka ej pagus fadeju rugav foj wavkaw huner safozbur utazsod beket agnuhudu hi ato rovze nihdi akeafehog."
+  },
+  "apiKey": "ecc7a78e37285a94b81234f19a70f6e1a568296aa234ea68b9cdb55a8adf36aa",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
