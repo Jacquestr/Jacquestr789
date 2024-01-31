@@ -1,0 +1,26 @@
+{
+  "name": "Edward Wilkins",
+  "age": 36,
+  "address": {
+    "street": "Hezgur Junction",
+    "city": "Tatausi",
+    "state": "MA",
+    "zip": "04499"
+  },
+  "contact": {
+    "phone": "(464) 815-8520",
+    "servicePhone": "800174992"
+  },
+  "birthday": "1992-08-11T12:43:46.346Z",
+  "ip": "209.224.17.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Du lic sefvi kepazauwa labu lalael milnivi nelajzam be ci gutmov lo ticsucho uvfud du bil jeidpa ihducev. Megrec vilku fuibo lujo comnudo womses dakelawe pekmor nidpa tum er nam dadser butidueki gozil tofu hudrit. Saglu de jitvu golnov ruibu ti za de urifilkic so ebwe du lal zeckosi taduwu atas.",
+    "bio": "Tiho riloz pergigmic wijcapnoz ja zoscafko pi guiki zufowni vijif vaciki poebiril. Okuzule guzvom uc fiw ko acze zi naacuvil imo nog go febeh zeja decihiv fiuru ofaboev hadulduw. Le lauwuiza tedor jur hinlid zusiz ram rozilun oc manforzuf wehzok geb awaca ko tidih pikezol."
+  },
+  "apiKey": "81f706412f8d8ced5e06bb4a23150ec9262168ed59652069d375e3a14bdc4cee",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
