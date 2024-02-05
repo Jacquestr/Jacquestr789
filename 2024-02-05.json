@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Obrien",
+  "age": 56,
+  "address": {
+    "street": "Piska Turnpike",
+    "city": "Cinodi",
+    "state": "KS",
+    "zip": "12714"
+  },
+  "contact": {
+    "phone": "(383) 249-5932",
+    "servicePhone": "800229455"
+  },
+  "birthday": "1994-03-19T23:54:00.507Z",
+  "ip": "251.35.180.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Epo wimjab weemupuf kidzasaj ivukalih lo ojcam kuj milo ba ewu mutsis saomo. Neafecan mo fafsouh weuhdo wubebmo tad siti boswum ep kekadsuj zakij zepjam rejunosu. Usniitu umze oriek zuudke sitowid ce oru ge waafar tikkod fasafsa susuksip zo ul essoj. Lu fub fuege guwe voz cocwihje neoksor ejgim pesukola ti zujoemi merimamu.",
+    "bio": "Ala ziduk na hahlamoj jeh puda ara elti osudate bochoc amib ob. Tirka erlo jisoke vagahuj epubih his ma foiva homhi umoho sun penipibif pabge mehpomcib. Zih po vomeuf duvfep fetihu uctor otharle kobkoc icibut azcug ma cucufe tof lofeso difoh. Ket capisa uvwetek kedudoh ru dat cado nuji kiverudi kis un acorput je ahedim nadfab kam. Lek of gegiit nu fegveob adebic roclemlu fivwiri fafedab dafo uwzuwseb cudegaf hu. Loeftoz odejiri rop erowof si piv filfu toc bimupjek vituv cu ohauso nosezidu kofa ujpug uk nur geelimoz. Uh nokeg wizrolwij oso ne azi babuli ji ofoci rirtitge uzjo oduwufim fejeed punmuc zunra iso moawe."
+  },
+  "apiKey": "a53d5641cde774cb1b886a445cf0138c82234d80cc27b06a0b83dc1f65c13cb2",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
