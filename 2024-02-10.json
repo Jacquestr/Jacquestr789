@@ -1,0 +1,26 @@
+{
+  "name": "Harriett Miller",
+  "age": 56,
+  "address": {
+    "street": "Kajlit Trail",
+    "city": "Kosoroni",
+    "state": "AZ",
+    "zip": "99797"
+  },
+  "contact": {
+    "phone": "(449) 456-1093",
+    "servicePhone": "800969369"
+  },
+  "birthday": "2003-11-24T08:18:44.548Z",
+  "ip": "236.71.102.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Degmab ugelabu gozurob mu upgieda sor oz oheruwu si uza zeil wegne fen ru namub hif niwduk. Zecigone keko bi kevisjuh duznel noowni apuucole aresomnoc ihatunif hiem vowaovu ogeiwe ofoeho fubij veswib. Tunur zapra ri bagaevu oweiza pu oco fego ce usaji eli baju vucud nimzu om huvbus ip dif.",
+    "bio": "Napa jofvat al ilvur wip ow owaco vopri tuktijeb fo ru dinuwdow ra omhodu noujsuc zejuw. Tovtiobo pedci dooce cu telacu dutvufa goef merow ikuta socop ezfahlo avden nehawju rat vek iraror se. Beufpeb ubejem rihojo sedibo ger jikficca mik rutfis sigvujle jogduzvu is lo leponbod zasgone ke wudot nidotu fielohef."
+  },
+  "apiKey": "03f38c966d4e7a91c14f5745f801559bcedf219d7cd5fd4b9b52887f6d5c4b9c",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
