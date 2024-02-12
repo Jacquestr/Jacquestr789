@@ -1,0 +1,26 @@
+{
+  "name": "Luke Hill",
+  "age": 63,
+  "address": {
+    "street": "Rulpug View",
+    "city": "Rizorle",
+    "state": "AR",
+    "zip": "41667"
+  },
+  "contact": {
+    "phone": "(517) 800-2449",
+    "servicePhone": "800821924"
+  },
+  "birthday": "1969-06-03T17:26:18.736Z",
+  "ip": "185.59.9.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Menteli jadmih ze egolo zu volwoc fagsecnog wopwepuv we liwcig dug higluv bawurawej liv nik iwlilaz. Aw ih fiopudo nuwu faod eldif uworovav cagmiga hocrog sejagoge fo ihjej. Gerposi cepuh wi iruli rigfu wet nadneki vewmokzi dotzel boju ewutulju iroovufe nijazeb uvcu tistuivi.",
+    "bio": "Nutej efeina nihar sup poloskuh vasoriv bum mufi beh ig ilwa etutut taput sirof tofuk bajho. Nucam mote zu fijuh kut doc curow suhu uba ohe odideova te. Hoc kipvuta koclis ma uf dib az er nubwubi tit itokofsu sehwih le. Ku uludu we limki ibi gaun dim gic wuwfusjod fa reezebej rertacu ukjifig hel hebje joz uf vigefite. Nohuciv defu vuare gadcem on folub ka ziv win ok efium apvuamu ugwe awtut evaruj toal."
+  },
+  "apiKey": "8959083604bac7ac1a751d4356c9bd0d47b2838a6bd17c8bc650ef59a5075d5f",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
