@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Craig",
+  "age": 23,
+  "address": {
+    "street": "Jefap Key",
+    "city": "Hukithu",
+    "state": "CA",
+    "zip": "80058"
+  },
+  "contact": {
+    "phone": "(937) 813-8689",
+    "servicePhone": "800871682"
+  },
+  "birthday": "2001-01-07T00:25:47.534Z",
+  "ip": "198.121.179.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Rakginfu ho uvamer honmemhef fice una roibo eguve kurovuhi puz ileil mi. Fopa ogvi durepuke cah ruza ru donuro mobgu zec gef otucikamu ikfam pesativ rajviis. Alal pe gapgumuga diam idaga guci jicsubju novuzoc doglu uwelef ni vacmo utwe gi ivhimzo mi ipe.",
+    "bio": "Zumar mevogo olwis ahugeel jozvek pige somu birtac osos pekwuhlo hecon ub pugaghu murer ga. Liepsa zu movu eblu moawa amdun losos molwicu povbis zeanaaf jewipik otomueh be. Bec faet kiop nitsuw fu ja mefhap lu ara rabafil cowlakro verej mu dufgo faisiab. Botaboj wiige ma burle ospet mucok re te booso ce ehdi iloj."
+  },
+  "apiKey": "8c742d69fcb1c26f0957b7e69b6883b2459bb1a1243a930b93c82cc05dc2edb4",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
