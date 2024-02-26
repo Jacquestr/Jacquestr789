@@ -1,0 +1,26 @@
+{
+  "name": "Fred Ellis",
+  "age": 53,
+  "address": {
+    "street": "Vecnip Place",
+    "city": "Kielhir",
+    "state": "CT",
+    "zip": "29411"
+  },
+  "contact": {
+    "phone": "(760) 305-1385",
+    "servicePhone": "800182816"
+  },
+  "birthday": "1970-01-03T09:56:03.109Z",
+  "ip": "84.140.150.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Areho va fifophe ekuwiw feru idibisat ec jaccareme mesawbo hunzu vutbugo ravovu vam sotej kouwreh sizkuzul. Zow lagduzmef devjud faphe aco cuvkitos je johuhri za gilidzuz daz wad fici ih fekcinoh. Wihwewen sodu ta ocuikiib otelife ahvo co hofcezi uma imakug rino ce ipmi bunun.",
+    "bio": "Kenza gitasdo cawho jowun segfa jaifhif bi vohaj ve ca web ho capiloru. Ko doztic jirvecavu bac gaggop pis mos zulikeob mi hoc kiupo jep vuk vo. Inehuume du bowuzavab cin roni wehopat wal fat mi ihawid peh gafedtu ece gonici nelbuca duvupli."
+  },
+  "apiKey": "887b883e08475a67f095e60bbbee9f7f3e3cc160b6696d35bf9af229d6143f36",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
