@@ -1,0 +1,26 @@
+{
+  "name": "Brett Hunter",
+  "age": 44,
+  "address": {
+    "street": "Finke Square",
+    "city": "Wijetva",
+    "state": "KY",
+    "zip": "48499"
+  },
+  "contact": {
+    "phone": "(473) 281-7650",
+    "servicePhone": "800417642"
+  },
+  "birthday": "1995-07-16T07:07:35.551Z",
+  "ip": "158.247.225.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Sika peupupo loc ziw cekguf terga urjoabo kiha bi tuhew gepjo soifaja legioji hi lejuc liow vo uluavodub. Pi kebor eciglaz tewezdu pug buon omdebli tidca sowtuel fuloda melnom tokaghij majfas weripfav. Cauza dew wit ipo waketlan owowog lofefebi wa ju gosid deszo suipu mebzoaw one mi rusbo. Bo loes juhowo kin mokaf fu ijovi dajeg sosni gez mucejro ogu tidrarub fabpop. Cugul zu unci wi sa emu da rip wuzpopa somvoldu wofniobe ju bif.",
+    "bio": "Je ve jafcuw zubut sak ez osilu foj eveehaova om hedawca pek ugavapil. Oh feko anetocod akagages noc zovtev ati hej hevikeero mabos capufow loid padocus. Bopcormam gofag falase bu duggavus giwbap towen ku ti tufowug zisaji gi."
+  },
+  "apiKey": "2c3b007bb64e99afac7fb4a5f4d00d519899adf3fb94a15b8f4894956a1fd53f",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
