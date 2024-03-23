@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Burton",
+  "age": 30,
+  "address": {
+    "street": "Kiwlu Path",
+    "city": "Coivwav",
+    "state": "WV",
+    "zip": "71689"
+  },
+  "contact": {
+    "phone": "(966) 606-8349",
+    "servicePhone": "800786835"
+  },
+  "birthday": "2004-03-23T14:53:16.578Z",
+  "ip": "188.153.128.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Pumak voho ma lorun far ro tuwive huf noomeizo sokbuifi osdomog ofu hisal sahugi. Er od oti vaohu capuvpiv tinarrul hinhi waker pohohi bo ud mizi ugowefog. El deolpu gam jepvigmec ibi tudetu uvogazpok zen loddet juf gokifzo efa divwokal hezev. Kositi rujurvow dildus ju jot dilmulal moc tuk jubarij bep kusjob onagoliko tag ivu mufol ov la. Li jalbe are hoh nof ita haof va so wor ge ahoiwu kij fi. Olzehob fivutez esupi elu lipepiw la popbu zo hudjino upa zosega cakhuvzar dinap. Fuetined welpeffud lebopwuf woncernul tidubatu niscekoc hu kemdo pule zogwornu kaev purog.",
+    "bio": "Ezjedof posaj li ogohu it alhuew ef vitiwvu celehho me la ta. Sev awu il tedu dajkanpem pippi juzju luafepe ta waj bipaz pu ke odmo te padiad. Ceti dosiv igad jile caewuazu kukja worvut uzfuj suhbef jot be gow pozumuha remoet saupar ej."
+  },
+  "apiKey": "25de25e96827fbad2c1b300ffb3d8d0d7977ee34d3a15a240bd38f0f4eab00d1",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
