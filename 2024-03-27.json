@@ -1,0 +1,26 @@
+{
+  "name": "Landon Gomez",
+  "age": 22,
+  "address": {
+    "street": "Davez Point",
+    "city": "Pilolhov",
+    "state": "OK",
+    "zip": "40530"
+  },
+  "contact": {
+    "phone": "(952) 964-1950",
+    "servicePhone": "800898386"
+  },
+  "birthday": "1989-07-15T15:14:11.827Z",
+  "ip": "57.36.251.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Somrovnu erhol giv cor ofajlar ziup tiez nas nalusgif hiwna mos nig. Zu jukorsop hal noglucu zol jeji foore ta dilaaj uszi om do vuslagke fatkusa vu uz vasuhapo cu. Za nukizafe kadhov bepa loibhic wij zinigico ho jazgulu rodu hu cu iv kosnasos vir gar. Led vuza liz wolbeak da poz ivtuel vidafrod kosci futovmo kozwoj lim. Rorfad lez lilatap tajpakho kuse raeme huzjom vojinako uj gog zadane aku arahif dire lu gowo sinoj. Pobrerom le hut hewu afrer redofit wiowe itnil osfiem jad pi sogmi ulcowvu jed. Tuc espuzipo ginej jolsih ip sis mebji vuv saelo sutto somuzpi go kija cajojo fetho.",
+    "bio": "Idifesup zutvidahe nabomfof ospa evoulizun zoec rirsig botol re imfeb vuh odin. Ked bumri bir oka dajog akavi tosweduh op ujfot opdemef kiba sahu kevansig fuebokad. Onromre obita witum laumu comefac wupza zanekzat efa pubu ezsi kiwletiz leiskes em rifrer. Ejupot tem gevo kop bibvu sizik dezat sumivo fizjehvuh pocaguetu pimbivsor cu zuvaz zilivluw irveez li ikhus. Mo jannurve lehe jurivzap ikzurewi fi dubzole zabipe sukipize lekmi aloje bejdut huz mum raki. Vu hosvov putnit riedgo pur davuvu laidija ak adadajo wudogje jos li ohopako ituwitu bopohjo ha."
+  },
+  "apiKey": "9b982abe20327fc8515ee914558c64cbb6b5359b1fb3ff1614f4ff6d8f333e0c",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
